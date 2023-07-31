@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureDrawing", "GestureDrawing\GestureDrawing.csproj", "{AA061F1E-466A-4A01-9A8B-D0BA96F8D7A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA061F1E-466A-4A01-9A8B-D0BA96F8D7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA061F1E-466A-4A01-9A8B-D0BA96F8D7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA061F1E-466A-4A01-9A8B-D0BA96F8D7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA061F1E-466A-4A01-9A8B-D0BA96F8D7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B30BAA-C8D7-473A-9829-2C8260CECCEB}
+	EndGlobalSection
+EndGlobal
